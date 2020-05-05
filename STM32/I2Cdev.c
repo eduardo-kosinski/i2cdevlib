@@ -37,6 +37,7 @@ THE SOFTWARE.
 #include <I2C_STM32F10x.h>
 
 // comentário
+// new comment
 
 extern ARM_DRIVER_I2C I2CDev_Driver;
 
